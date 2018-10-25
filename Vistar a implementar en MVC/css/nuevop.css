@@ -1,0 +1,82 @@
+*{
+	background: #20B1AA;
+}
+
+
+#tiendita{
+	height: 250px;
+	width: 250px;
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#tema{
+	font-size: 70px;
+	margin-top: 80px;
+	margin-left: -60px	
+	font-weight: bold;
+}
+
+
+#caja{
+
+	padding: 30px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#dinero{
+	width: 70px;
+}
+
+input{
+	background: #FFFF;
+}
+
+select{
+	background: #FFFF;
+}
+
+option{
+	background: #FFFF;
+}
+
+#textoDere{
+	text-align: right;
+	padding-right: 80px;
+}
+
+#cerrar{
+	padding-top: 80px;
+	padding-left: 100px;
+}
+
+#cerrar3{
+	padding-top: 30px;
+	padding-left: 100px;
+}
+
+body div div a img {
+	height: 150px;
+	width: 150px;
+}
+
+
+#cerrar2{
+	float: left;
+	padding-top: 10px;
+	padding-left: 30px;
+}
+
+h3{
+	font-weight: bold;
+	text-align: center;
+}
+
+#negrita{
+	padding: 5px;
+	font-weight: bold;
+	text-align: center;
+}

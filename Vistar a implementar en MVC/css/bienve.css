@@ -1,0 +1,59 @@
+*{
+	background: #3CB36F;
+}
+
+#tiendita{
+	height: 250px;
+	width: 250px;
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#tema{
+	font-size: 70px;
+	margin-top: 80px;
+	margin-left: -60px	
+	font-weight: bold;
+}
+
+p {
+	font-size: 20px;
+}
+
+body div div a img {
+	height: 200px;
+	width: 200px;
+}
+
+#espacio{
+	padding-top: 50px;
+	padding-left: 100px;
+}
+
+h1{
+	font-family: Impact, Charcoal, sans-serif;
+}
+
+
+#cerrar{
+	padding-top: 80px;
+	padding-left: 100px;
+	padding-right: 80px;
+}
+
+textarea {
+	background: silver;
+}
+
+
+#textoDere{
+	text-align: right;
+}
+
+
+#negrita{
+	padding: 5px;
+	font-weight: bold;
+	text-align: center;
+}

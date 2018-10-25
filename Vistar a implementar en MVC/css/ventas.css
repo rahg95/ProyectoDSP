@@ -1,0 +1,41 @@
+*{
+	background: #3CB36F;
+}
+
+#ventas{
+	position: static;
+	padding: 30px;
+}
+
+#letras1{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+#cajas{
+	padding: 20px;
+}
+
+textarea {
+	background: silver;
+}
+
+#textoDere{
+	text-align: right;
+}
+
+input{
+	background: #FFFF;
+}
+
+#botones{
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#alinear{
+	text-align: center;
+	font-weight: bold;
+	padding: 10px;
+}

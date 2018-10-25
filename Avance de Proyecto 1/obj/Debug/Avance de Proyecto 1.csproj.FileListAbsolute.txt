@@ -1,0 +1,60 @@
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.exe.config
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.exe
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.pdb
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csprojResolveAssemblyReference.cache
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form1.resources
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form2.resources
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Properties.Resources.resources
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csproj.GenerateResource.Cache
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.exe
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.pdb
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form3.resources
+C:\Users\alvar\Downloads\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.exe.config
+C:\Users\alvar\Downloads\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.exe
+C:\Users\alvar\Downloads\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.pdb
+C:\Users\alvar\Downloads\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csprojAssemblyReference.cache
+C:\Users\alvar\Downloads\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form1.resources
+C:\Users\alvar\Downloads\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form2.resources
+C:\Users\alvar\Downloads\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form3.resources
+C:\Users\alvar\Downloads\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Properties.Resources.resources
+C:\Users\alvar\Downloads\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csproj.GenerateResource.cache
+C:\Users\alvar\Downloads\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Downloads\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.exe
+C:\Users\alvar\Downloads\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.pdb
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.exe.config
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.exe
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.pdb
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csprojResolveAssemblyReference.cache
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form1.resources
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form2.resources
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form3.resources
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Properties.Resources.resources
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csproj.GenerateResource.Cache
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.exe
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.pdb
+C:\Users\marco\Desktop\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form1.resources
+C:\Users\marco\Desktop\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form2.resources
+C:\Users\marco\Desktop\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form3.resources
+C:\Users\marco\Desktop\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Properties.Resources.resources
+C:\Users\marco\Desktop\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.exe
+C:\Users\marco\Desktop\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.pdb
+C:\Users\marco\Desktop\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.exe.config
+C:\Users\marco\Desktop\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.exe
+C:\Users\marco\Desktop\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.pdb
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Equipo Gris\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.exe.config
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Equipo Gris\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.exe
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Equipo Gris\Avance de Proyecto 1\Avance de Proyecto 1\bin\Debug\Avance de Proyecto 1.pdb
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Equipo Gris\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csprojResolveAssemblyReference.cache
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Equipo Gris\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form1.resources
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Equipo Gris\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form2.resources
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Equipo Gris\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Form3.resources
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Equipo Gris\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance_de_Proyecto_1.Properties.Resources.resources
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Equipo Gris\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csproj.GenerateResource.Cache
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Equipo Gris\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Equipo Gris\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.exe
+C:\Users\Jairo Benavides\Documents\C#\Proyecto de Cátedra\2.0\Equipo Gris\Avance de Proyecto 1\Avance de Proyecto 1\obj\Debug\Avance de Proyecto 1.pdb

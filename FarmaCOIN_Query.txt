@@ -1,0 +1,51 @@
+Create DataBase FarmaCOIN;
+USE FarmaCOIN;
+
+CREATE TABLE Usuarios(
+	id_usuario int,
+	Usuario VARCHAR(8) not null,
+	Pass VARCHAR(20)not null,
+	TipoUsuario VARCHAR(13) not null
+);
+
+DROP TABLE Usuarios;
+
+
+INSERT INTO Usuarios VALUES(0, 'admin', '12345', 'Administrador'),
+(1, 'empleado', '12345', 'Empleado');
+
+
+SELECT * FROM Usuarios;
+
+CREATE TABLE Productos(	
+	id_producto int not null,
+	NombreProducto VARCHAR(120) not null,
+	CodigoProducto VARCHAR(4)not null,
+	LaboratorioProducto VARCHAR(25)not null,
+	FormaProducto VARCHAR(25) not null,
+	PresentacionProducto VARCHAR(25) not null,
+	TipoProducto VARCHAR(25) not null,
+	PrecioCompra DECIMAL not null,
+	PrecioVenta DECIMAL not null,
+	Unidades INT not null
+);
+
+CREATE TABLE Ventas(
+	CodProducto VARCHAR(4) not null,
+	NombreProducto VARCHAR(25) not null,
+	PrecioProducto DECIMAL not null,
+	FechaVenta VARCHAR(10) not null
+);
+
+//Insercion de datos
+INSERT INTO Productos VALUES(1, 'Acetominofen','2334','Lopez','bebible','hola','analgesico',1.20,1.00,5);
+INSERT INTO Productos VALUES(2, 'Virogrip','2335','Lopez','tableta','hola','antigripal',1.20,1.00,5);
+INSERT INTO Productos VALUES(3, 'Tabcin','2336','Lopez','bebible','hola','antigripal',1.20,1.00,5);
+INSERT INTO Productos VALUES(4, 'Aspirina','2337','Lopez','tableta','hola','analgesico',1.20,1.00,5);
+INSERT INTO Productos VALUES(5, 'Paracetamol','2338','Lopez','bebible','hola','analgesico',1.20,1.00,5);
+
+DROP TABLE Productos;
+
+SELECT * FROM Productos WHERE CodigoProducto = '2334' OR CodigoProducto = '2335' OR CodigoProducto = '2338';
+
+SELECT * FROM Ventas
